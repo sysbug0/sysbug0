@@ -4,7 +4,7 @@ i'm sysbug0, a young coder and tech enthusiast.
 
 i mostly play around with programming, break stuff, and try to fix it. i’m into tinkering with computers, especially low-level stuff (sometimes too low, i break things).
 
-i'm still learning, but i’m having a blast with it.
+i'm still learning, but i’m having fun with it.
 
     💻 developer
     🛠️ fixing bugs (and causing them too)
