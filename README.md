@@ -1,0 +1,31 @@
+# welcome 👋
+
+i'm sysbug0, a young coder and tech enthusiast.
+
+i mostly play around with programming, break stuff, and try to fix it. i’m into tinkering with computers, especially low-level stuff (sometimes too low, i break things).
+
+i'm still learning, but i’m having a blast with it.
+
+    💻 developer
+    🛠️ fixing bugs (and causing them too)
+    🎮 gamer
+    📄 learning low-level programming
+    📹 wanna-be youtuber
+    
+i enjoy coding, gaming, and learning new things.
+
+## stats
+
+**sysbug0's github stats**  
+*coming soon...*
+
+## currently working on
+
+nothing yet!
+
+## fun fact
+
+life's too short to spend all day on one project, so i keep moving, learning, and trying new things every day!
+
+**let's connect**  
+- shoot me a message at sysbug0@proton.me if you need something!
