@@ -27,3 +27,5 @@ life's too short to spend all day on one project, so i keep moving, learning, an
 
 **let's connect**  
 - shoot me a message at sysbug0@proton.me if you need something!
+- watch my youtube videos at https://youtube.com/@sysbug0
+- follow me on bluesky at [@sysbug0.bsky.social](https://bsky.app/profile/sysbug0.bsky.social)
